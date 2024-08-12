@@ -1,5 +1,5 @@
 html {
-    background: linear-gradient(177.52deg, #4574E3 2.11%, #154580 81.34%);
+    background: linear-gradient(177.52deg, #444444 2.11%, #747475 81.34%);
     background-repeat: no-repeat;
     height: 100%;
 }
@@ -59,4 +59,14 @@ input {
 
 .border-radius {
     border-radius: 0.5em;
-  }
+}
+
+.botao{
+    color: #fff;
+    background-color: blue;
+    border: none;
+    border-radius: 50%;
+    width: 1em;
+    height: 2em;
+    padding-left: 1.3em;
+}
